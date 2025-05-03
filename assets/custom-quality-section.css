@@ -10,6 +10,11 @@
   gap: 20px
 }
 
+.quality-item:first-of-type{
+  font-weight: bold;
+  color: red;
+}
+
 
 .quality-icon:before{
     content: "\f5a2";
