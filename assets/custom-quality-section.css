@@ -10,7 +10,7 @@
   gap: 20px
 }
 
-.quality-item:first-of-type{
+.quality-item span:first-of-type{
   font-weight: bold;
   color: red;
 }
