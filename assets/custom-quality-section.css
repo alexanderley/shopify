@@ -1,4 +1,4 @@
-.quality-grid{
+/* .quality-grid{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 30px;
@@ -10,7 +10,6 @@
   align-items: center;
   gap: 20px;
   background: beige;
-  /* width: 100px; */
 }
 
 .quality-item span:first-of-type{
@@ -28,4 +27,43 @@
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
     font-size: 34px;
+} */
+
+.quality-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
+  padding: 20px;
+  width: 100%;
+}
+
+.quality-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: beige;
+  min-width: 0;
+}
+
+.quality-item {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+.quality-item span:first-of-type {
+  font-weight: bold;
+  color: rgb(var(--color-foreground));
+}
+
+.quality-icon {
+  flex-shrink: 0;
+}
+
+.quality-icon:before {
+  content: "\f5a2";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-size: 34px;
 }
