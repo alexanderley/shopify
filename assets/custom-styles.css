@@ -39,7 +39,26 @@ h1{
     display: none !important;
   }
 }
-/* 
+.slick-slider{
+  max-width: 400px;
+  margin: 0 auto;
+}
+.carousel-nav{
+  margin: 0;
+}
+
+.carsousel-main{
+  margin: 0;
+}
+
 .product__info-wrapper{
-  margin-bottom: 0;
-} */
+  padding: 0;
+}
+
+.product__title{
+  margin: 0;
+}
+
+.product__description{
+  margin: 0;
+}
