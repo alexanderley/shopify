@@ -13,7 +13,12 @@
 .quality-icon{
   background: purple;
   /* content: "/f5a2"; */
-      content: "\f105" !important;
+    content: "\f105" !important;
     font-family: "Font Awesome 6 Free" !important;
     font-weight: 900;
+}
+
+.quality-icon:before{
+    content: "\f105" !important;
+    font-family: "Font Awesome 6 Free" !important;
 }
