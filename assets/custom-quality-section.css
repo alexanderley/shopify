@@ -1,10 +1,10 @@
 .quality-grid {
   display: grid;
   /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
-  grid-template-columns: 100px repeat(auto-fill, 100px) 200px;
-/* grid-template-columns: 100px repeat(2, 1fr auto) 200px repeat(3, 5fr);
+  /* grid-template-columns: 100px repeat(auto-fill, 100px) 200px; */
+/* grid-template-columns: 100px repeat(2, 1fr auto) 200px repeat(3, 5fr); */
 grid-template-columns: minmax(150px, max-content) repeat(auto-fill, 180px) 15%;
-grid-template-columns: [col1] 100px [col1-end] repeat(auto-fit, [line3] 400px); */
+/* grid-template-columns: [col1] 100px [col1-end] repeat(auto-fit, [line3] 400px);  */
   gap: 30px;
   padding: 20px;
   width: 100%;
