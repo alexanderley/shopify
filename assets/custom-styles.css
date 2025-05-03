@@ -72,5 +72,8 @@ h1{
   max-width: unset !important;
 } */
 
+.grid__item product__media-wrapper{
+  width: 100% !important;
+}
         
 
