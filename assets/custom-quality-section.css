@@ -11,7 +11,9 @@
   align-items: center;
   gap: 20px;
   background: beige;
-  min-width: 0;
+  width: 200px; 
+  min-width: 200px; 
+  flex-shrink: 0; 
 }
 
 .quality-item {
