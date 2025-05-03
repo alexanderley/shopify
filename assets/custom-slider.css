@@ -63,4 +63,5 @@
 
 .carousel-nav {
     display: none !important;
+  opacity: 0;
 }
