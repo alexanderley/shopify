@@ -41,11 +41,10 @@
    }
 
 .product__info-container{
-  /* background: beige; */
   padding: 28px;
-box-shadow: 0px 3px 20px #00000029;
-border: 1px solid #D5D5D5;
-border-radius: 5px;
+  box-shadow: 0px 3px 20px #00000029;
+  border: 1px solid #D5D5D5;
+  border-radius: 5px;
 }
 
  .product__inventory .svg-wrapper{
@@ -60,4 +59,8 @@ border-radius: 5px;
 }
 .inventory-status--out-of-stock {
   color: rgb(200, 200, 200);
+}
+
+.carousel-nav {
+    display: none !important;
 }
