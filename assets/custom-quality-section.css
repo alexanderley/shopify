@@ -18,5 +18,5 @@
 }
 
 .quality-icon:before{
-  content: 'xxxx' !important;
+  content: '';
 }
