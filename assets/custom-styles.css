@@ -29,6 +29,13 @@ h1{
   font-weight: bold;
 }
 
-.carousel-nav {
+@media screen and (max-width: 749px) {
+  .product__media-list .carousel-nav {
     display: none !important;
+  }
+  
+  /* If you're using the thumbnail slider layout */
+  .thumbnail-slider {
+    display: none !important;
+  }
 }
