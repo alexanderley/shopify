@@ -43,6 +43,10 @@ h1{
   max-width: 400px;
   margin: 0 auto;
 }
+.carousel-main {
+  margin: 0;
+}
+
 .carousel-nav{
   margin: 0;
 }
