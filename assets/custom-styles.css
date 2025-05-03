@@ -32,4 +32,4 @@ h1{
  @media screen and (max-width: 750px) {
      .carousel-nav {
        display: none !important;
-     }
+}
