@@ -12,9 +12,8 @@
 
 .quality-icon{
   background: purple;
-  width: 100px;
-  height: 100px;
-  content: 'dhkjf';
+  /* width: 100px;
+  height: 100px; */
 }
 
 .quality-icon:before{
