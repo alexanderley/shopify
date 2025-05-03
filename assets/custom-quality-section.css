@@ -1,6 +1,8 @@
 .quality-grid{
   display: flex;
   background: beige;
+  gap: 20px;
+  justify-content: center;
 }
 
 .quality-container{
