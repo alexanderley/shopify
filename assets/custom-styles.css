@@ -28,3 +28,8 @@ h1{
   color: rgb(31,71,255);
   font-weight: bold;
 }
+
+ @media screen and (max-width: 750px) {
+     .carousel-nav {
+       display: none !important;
+     }
