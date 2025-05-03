@@ -13,6 +13,7 @@
 .quality-icon{
   background: purple;
   content: '';
+  font-family: "Font Awesome 6 Free" !important;
 }
 
 .quality-icon:before{
