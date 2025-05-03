@@ -1,6 +1,6 @@
 .quality-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 30px;
   padding: 20px;
   width: 100%;
@@ -10,16 +10,13 @@
   display: flex;
   align-items: center;
   gap: 20px;
-  /* background: beige; */
-  /* width: 200px;  */
-  min-width: 200px; 
+  /* min-width: 200px;  */
   flex-shrink: 0; 
+  margin: 0 auto;
 }
 
 .quality-item {
   white-space: nowrap;
-  /* overflow: hidden;
-  text-overflow: ellipsis; */
   min-width: fit-content;
 }
 
