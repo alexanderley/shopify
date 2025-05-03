@@ -17,7 +17,8 @@
 }
 
 .quality-icon:before{
-      content: "\f5a2" !important;
+    content: "\f5a2" !important;
     font-family: "Font Awesome 6 Free" !important;
     font-weight: 900;
+    font-size: 24px;
 }
