@@ -11,16 +11,9 @@
 }
 
 
-
-.quality-icon{
-  /* background: purple; */
-  /* width: 100px;
-  height: 100px; */
-}
-
 .quality-icon:before{
-    content: "\f5a2" !important;
-    font-family: "Font Awesome 6 Free" !important;
+    content: "\f5a2";
+    font-family: "Font Awesome 6 Free";
     font-weight: 900;
     font-size: 34px;
 }
