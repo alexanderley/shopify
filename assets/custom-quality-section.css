@@ -18,6 +18,10 @@
   color: rgb(var(--color-foreground));
 }
 
+.quality-item{
+  white-space: nowrap;
+}
+
 
 .quality-icon:before{
     content: "\f5a2";
