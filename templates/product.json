@@ -94,7 +94,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"quality-grid\">\n      <div class=\"quality-container\">\n        <div class=\"quality-icon\">icon</div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div> \n      <div class=\"quality-container\">\n        <div class=\"quality-icon\">icon</div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div>\n      <div class=\"quality-container\">\n        <div class=\"quality-icon\">icon</div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div>\n    </div>",
+        "custom_liquid": "<div class=\"quality-grid\">\n      <div class=\"quality-container\">\n        <div class=\"quality-icon\"></div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div> \n      <div class=\"quality-container\">\n        <div class=\"quality-icon\"></div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div>\n      <div class=\"quality-container\">\n        <div class=\"quality-icon\"></div>\n        <div class=\"quality-item\">\n          <h3>100% Qualität</h3>\n          <p>Dank weichem Silikon</p>\n        </div>\n      </div>\n    </div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
