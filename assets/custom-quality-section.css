@@ -15,12 +15,8 @@
   width: 100px;
   height: 100px;
   content: 'dhkjf';
-  /* content: "/f5a2"; */
-    /* content: "\f105" !important;
-    font-family: "Font Awesome 6 Free" !important;
-    font-weight: 900; */
 }
 
 .quality-icon:before{
-  content: 'jksdhf'
+  content: 'jksdhf' !important;
 }
