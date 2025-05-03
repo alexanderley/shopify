@@ -12,7 +12,7 @@
 
 .quality-item span:first-of-type{
   font-weight: bold;
-  color: red;
+  color: rgb(var(--color-foreground));
 }
 
 
