@@ -1,13 +1,13 @@
 .quality-grid{
   display: flex;
-  background: beige;
   gap: 30px;
   justify-content: center;
 }
 
 .quality-container{
   display: flex;
-  background: gree;
+  align-items: center;
+  gap: 20px
 }
 
 .quality-icon{
@@ -20,5 +20,5 @@
     content: "\f5a2" !important;
     font-family: "Font Awesome 6 Free" !important;
     font-weight: 900;
-    font-size: 24px;
+    font-size: 34px;
 }
