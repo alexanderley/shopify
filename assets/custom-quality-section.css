@@ -12,7 +12,7 @@
 
 .quality-icon{
   background: purple;
-   content: none;
+  content: '';
 }
 
 .quality-icon:before{
