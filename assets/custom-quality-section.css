@@ -1,35 +1,4 @@
-/* .quality-grid{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 30px;
-  padding: 20px
-}
-
-.quality-container{
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  background: beige;
-}
-
-.quality-item span:first-of-type{
-  font-weight: bold;
-  color: rgb(var(--color-foreground));
-}
-
-.quality-item{
-  white-space: nowrap;
-}
-
-
-.quality-icon:before{
-    content: "\f5a2";
-    font-family: "Font Awesome 6 Free";
-    font-weight: 900;
-    font-size: 34px;
-} */
-
-/* .quality-grid {
+.quality-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 30px;
@@ -66,41 +35,4 @@
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   font-size: 34px;
-} */
-
-.quality-grid {
-  display: flex;
-  flex-wrap: wrap; /* Allows items to wrap to the next line */
-  gap: 30px;
-  padding: 20px;
-  width: 100%;
-}
-
-/* Force each item to take full width when wrapped */
-.quality-container {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  background: beige;
-  min-width: 0; /* Allows shrinking */
-  flex: 1 0 calc(100% - 20px); /* Takes full width when wrapped */
-  max-width: 100%; /* Prevents overflow */
-}
-
-/* Optional: If you want items to stay in a row until they wrap */
-@media (min-width: 768px) {
-  .quality-container {
-    flex: 1 0 calc(25% - 30px); /* Example: 4 items per row */
-  }
-}
-
-.quality-item {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-width: 0;
-}
-
-.quality-icon {
-  flex-shrink: 0;
 }
