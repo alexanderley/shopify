@@ -1,11 +1,13 @@
 .quality-grid{
-  display: flex
+  display: flex;
+  background: beige;
 }
 
 .quality-container{
   display: flex;
+  background: gree;
 }
 
 .quality-icon{
-  
+  background: yellow;  
 }
