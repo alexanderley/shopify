@@ -1,0 +1,30 @@
+h1{
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.product__description{
+  font-size: 24px;
+}
+
+.price-container{
+  font-size: 24px;
+}
+
+.price-item{
+  font-size: 24px
+   font-weight: bold;
+  /* color: rgb(var(--color-foreground)); */
+}
+ .price-item--regular{
+   color: green;
+ }
+
+.price__sale{
+  font-weight: 600;
+}
+
+.price-item--sale{
+  color: rgb(31,71,255);
+  font-weight: bold;
+}
