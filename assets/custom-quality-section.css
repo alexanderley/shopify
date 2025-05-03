@@ -12,7 +12,7 @@
 
 .quality-icon{
   background: purple;
-  content: '';
+  content: '\f105';
   font-family: "Font Awesome 6 Free" !important;
 }
 
