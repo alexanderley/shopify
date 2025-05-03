@@ -9,6 +9,7 @@
   display: flex;
   align-items: center;
   gap: 20px;
+  background: beige;
 }
 
 .quality-item span:first-of-type{
