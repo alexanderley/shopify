@@ -16,9 +16,9 @@
 
 .quality-item {
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-width: 100px;
+  /* overflow: hidden;
+  text-overflow: ellipsis; */
+  min-width: fit-content;
 }
 
 .quality-item span:first-of-type {
