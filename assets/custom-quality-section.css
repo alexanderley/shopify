@@ -20,3 +20,7 @@
     font-family: "Font Awesome 6 Free" !important;
     font-weight: 900; */
 }
+
+.quality-icon:before{
+  content: 'jksdhf'
+}
