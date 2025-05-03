@@ -10,7 +10,7 @@
   align-items: center;
   gap: 20px;
   background: beige;
-  width: 100px;
+  /* width: 100px; */
 }
 
 .quality-item span:first-of-type{
