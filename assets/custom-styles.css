@@ -29,7 +29,6 @@ h1{
   font-weight: bold;
 }
 
- @media screen and (max-width: 750px) {
      .carousel-nav {
        display: none !important;
-}
+     }
