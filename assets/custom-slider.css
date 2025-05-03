@@ -5,7 +5,7 @@
 }
 
 .page-width{
-  padding: 0;
+  /* padding: 0; */
 }
 
 .product__info-wrapper{
@@ -59,9 +59,4 @@
 }
 .inventory-status--out-of-stock {
   color: rgb(200, 200, 200);
-}
-
-.carousel-nav {
-    display: none !important;
-  opacity: 0;
 }
