@@ -29,6 +29,6 @@ h1{
   font-weight: bold;
 }
 
-     .carousel-nav {
-       display: none !important;
-     }
+.carousel-nav {
+    display: none !important;
+}
